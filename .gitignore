@@ -1,0 +1,10 @@
+*.iml
+*.swp
+*.bak
+.settings/
+.classpath
+.project
+*.zip
+.idea/
+target/
+bin/
